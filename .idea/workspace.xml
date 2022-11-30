@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2e79752-1bc3-4774-b755-fdce92faebe2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy_Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Abrechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Fixplatzberechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/FormatKonstanten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Rechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Rechnungsersteller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Standardabrechnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategy_Pattern/Tennisstunde.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IGxmYATc6YsadkENNIpZJ9Vo8m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/einst/IdeaProjects/Strategy_Pattern/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\einst\IdeaProjects\Strategy_Pattern\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2e79752-1bc3-4774-b755-fdce92faebe2" name="Changes" comment="" />
+      <created>1669821886390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669821886390</updated>
+      <workItem from="1669821888228" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
