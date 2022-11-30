@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Kunde {
   private String name;
+  private Abrechnung abrechnung;
 
   public Kunde(String name) {
     super();
@@ -19,13 +20,14 @@ public class Kunde {
   }
   
   public double berechnePreis(List<Tennisstunde> l) {
-    double preis = 0;
-    for(Tennisstunde ts:l) {
-      preis += ts.getPreis();
-    }
-    return preis;
+    return abrechnung.berechnePreis(l);
   }
-  
+
+  public void setAbrechnung(Abrechnung a){
+    this.abrechnung = a;
+  }
+
+
   @Override
   public String toString() {
     return this.name;

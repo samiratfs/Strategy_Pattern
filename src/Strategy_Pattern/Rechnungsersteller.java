@@ -6,7 +6,9 @@ public class Rechnungsersteller {
 
   public static void main(String[] args) {
     Kunde k1 = new Kunde("Max Meier");
-    Kunde k2 = new Fixplatzkunde("Felix Forster", 2, 10);
+    k1.setAbrechnung(new Standardabrechnung());
+    Kunde k2 = new Kunde("Felix Forster");
+    k2.setAbrechnung(new Fixplatzberechnung(2,10));
     Rechnung m1 = new Rechnung(k1, LocalDate.of(2019,9,1));
     m1.setBis(LocalDate.of(2019,9,10));
     m1.add(new Tennisstunde("Mo 2.9. Platz 1", 15));
